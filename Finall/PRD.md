@@ -14,9 +14,9 @@
 ### 目录（暂定、待完善）
 |PRD设计|原型设计|API|
 |:-:|:-:|:-:|
-|[市场背景](#chapter1) |[产品架构图](#chapter12)|[API检测](#chapter15)|
+|[市场背景](#chapter5) |[产品架构图](#chapter12)|[API检测](#chapter15)|
 |[核心价值](#chapter3) |[信息架构图](#chapter20)|
-|[加值宣言](#chapter5) |[数据流程图](#chapter21)|
+|[加值宣言](#chapter1) |[数据流程图](#chapter21)|
 |[产品目的](#chapter4) |[功能流程图](#chapter13)|
 |[产品背景](#chapter2) |[原型展示](#chapter14)|
 |[产品目标](#chapter6) ||
