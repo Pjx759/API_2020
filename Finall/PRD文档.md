@@ -28,7 +28,7 @@
 | 优先级	| 用户需求	| 功能实现 | API价值 | 原因 |
 | :--: | :--: | :--: | :--: | :--: |
 | 重要	|用户需要了解自己药物的剂量和频次|[通用票据识别](https://ai.baidu.com/tech/ocr_receipts/receipt) 	| 将票据图片转化为文字信息，可以快捷输出数据 | 开药单的数据繁多而用户需要的数据只是其中的一小部分 |
-| 次重要	|可以便捷输入自己的数据|[短语音识别](https://ai.baidu.com/tech/speech/asr);[关键词提取](https://www.xfyun.cn/services/keyword-extraction)| 重要 | - |
+| 次重要	|可以便捷输入自己的数据|[短语音识别](https://ai.baidu.com/tech/speech/asr);[关键词提取](https://www.xfyun.cn/services/keyword-extraction)| 实现用户输入语音可以输出文字信息，并且提取信息给用户 | - |
 
 
 
